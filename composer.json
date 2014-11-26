@@ -8,7 +8,7 @@
     },
     "require": {
         "php": ">=5.3.3",
-        "pmaglione/lightsaml": "1.0.*",
+        "hexacta/lightsaml": "dev-master",
         "symfony/symfony": "~2.2"
     },
     "suggest": {
